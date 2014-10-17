@@ -1,4 +1,4 @@
-#VReader 基于Bomb的小型新闻资讯类iOS框架
+#VReader 基于Bmob的小型新闻资讯类iOS框架
 
 （ps:小子倒是斗胆称它为框架了）
 
@@ -8,7 +8,7 @@
 - 我的收藏
 - 两个富类模块
 - 联系我们＋用户反馈
-- 使用Bomb云服务
+- 使用Bmob云服务
 - 新闻数据持久化
 
 界面展示：
@@ -20,7 +20,7 @@
 使用方法：
 
 ###(一)建立服务器：
-- 注册Bomb账号(附链接：http://www.bmob.cn/activity/redirect/?sid=b2a3391014f40dd92252)
+- 注册Bmob账号(附链接：http://www.bmob.cn/activity/redirect/?sid=b2a3391014f40dd92252)
 - 云端建立自己的APP
 - 在数据浏览模块新建数据表，分别如下：
 
